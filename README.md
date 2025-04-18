@@ -12,7 +12,7 @@ This project analyzes consumer perception data of McDonald's to identify meaning
 
 ## 📚 Dataset
 
-Sourced from the `MSA` R package, the dataset includes:
+Sourced dataset includes:
 
 - 11 brand perception variables (e.g., YUMMY, FAST, FUN)
 - Demographics (Age, Gender)
